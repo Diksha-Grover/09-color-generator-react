@@ -6,4 +6,4 @@ Commands used:
 
 screenshot of output:
 
-<img src="menu.png">
+<img src="colorgnerator.png">
